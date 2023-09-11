@@ -1,9 +1,9 @@
 from django.urls import path, include
-from rest_framework.routers import DefaultRouter
-from api.views import ItemViewSet
+from api.views import ArticleView, ArticleDetailView
 
 
 
 urlpatterns = [
-    path('item/', ItemViewSet.as_view(), name="Item"),
+    path('article/', ArticleView.as_view(), name="article"),
+    path('article/<int:pk>', ArticleDetailView.as_view(), name="article-detail")
 ]

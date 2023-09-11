@@ -1,0 +1,112 @@
+[
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 1,
+            "title": "Librarians & Administrators Helping your institution on the road to open science",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 2,
+            "title": "Open Science Journals - Research Paper Access",
+            "content": "Search For Daily Articles To Read at Topbrandsforyou.com. Find Daily Articles To Read. Now with us! Latest Today. Attractive Results. Get More Results. Search Now. Updated Info. Relevant Results. Get Latest Info. Fast Response. Awesome Info. More Info. Services: Answers, Information, Social, Related Searches.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 3,
+            "title": "How to Read the Chicago Tribune Online",
+            "content": "The Chicago Tribune offers a variety of ways to access its articles online. If you’re a subscriber, you can read the entire paper in digital form. The Chicago Tribune offers its en...",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 4,
+            "title": "Enhancing Learning and Retention: The Science Behind Reading Onlin",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 5,
+            "title": "Discover the Best Websites and Platforms for Free Online Reading",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 6,
+            "title": "Librarians & Administrators Helping your institution on the road to open science",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 7,
+            "title": "Where Can I Read the National Enquirer Online?",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 8,
+            "title": "Librarians & Administrators Helping your institution on the road to open science",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 9,
+            "title": "Librarians & Administrators Helping your institution on the road to open science",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 10,
+            "title": "How Do You Write an Article Review in APA Format?",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    },
+    {
+        "model": "api.Article",
+        "fields": {
+            "id": 11,
+            "title": "What Is the Reading Level of The New York Times?",
+            "content": "Every institution is unique, with its own needs and progress along the road to a culture of open science. From preprints, to read and publish agreements, to new approaches to research assessment, ACS backs open science and can help your organization in forging its own route.",
+            "created_at": "2023-03-08T07:49:25.862880Z",
+            "updated_at": "2023-03-08T07:49:25.862880Z"
+        }
+    }
+]

@@ -3,7 +3,7 @@ import { Fragment } from "react";
 
 const dummy = () => {
   const { data: dummy } = useGetDummyQuery();
-    console.log
+  console.log;
   return (
     <Fragment>
       {dummy?.map((dummy: any) => (
