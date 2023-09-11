@@ -1,5 +1,5 @@
 # Simple Bulletin Board #
-## Installation ##
+## Requirements ##
 * python 3.11.5
 * Django 4.2.5
 * Next.js v13.4.19
@@ -9,36 +9,39 @@
 
 
 
-# FrontEnd #
+### FrontEnd ###
+1. In the terminal  <br>
 `cd client`
 
-_install dependencies_
+2. _install dependencies_ <br>
 `npm install`
 
-_run server_
+3. _Create a `.env` file and add this_ <br> `NEXT_PUBLIC_API_BASE_URL = http://127.0.0.1:8000/api/`
+
+4. _run server_ <br>
 `npm run dev`
 
 visit url: http://localhost:3000/article
 
 
-# BackEnd #
-_create your virtual environment first_
+### BackEnd ###
+1. _create your virtual environment first_  <br>
 `python3 -m venv myenv` 
 
-_activate_
-`source myenv/bin/activate` for Mac
+2. _activate virtual environment_ <br>
+`source myenv/bin/activate` for Mac <br>
 `.\myenv\Scripts\activate` for Windows
 
-`cd backend` 
+3. `cd backend` 
 
-_install requirements.txt_
+4. _install requirements.txt_<br>
 `pip install -r requirements.txt` 
 
-_load seeders_
+5. _load seeders_<br>
 `python3 manage.py loaddata article_seeder.json`
 
-_migrate_
+6. _migrate_<br>
 `python3 manage.py migrate`
 
-
-
+7. _run server_<br>
+`python3 manage.py runserver`
